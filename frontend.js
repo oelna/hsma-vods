@@ -20,10 +20,10 @@ if (!vods.length) {
 for (const v of vods) {
   const div = document.createElement('div');
   div.className = 'vod';
-  console.log(v);
+
   const title = v.title || '(untitled)';
-  const when = v.recorded_at || v.created_at;
-  const dateStr = when ? fmt.format(new Date(when)) : '';
+  const when = v.created_at;
+  const dateStr = when ? fmt.format(new Date(when * 1000)) : '';
   const lenStr  = hm(v.duration_seconds);
   const chan    = v.channel || v.twitch_id || '';
 
