@@ -1,0 +1,46 @@
+name: Update VODs
+
+on:
+  schedule:
+    - cron: "15 11 * * 5"
+    - cron: "30 17 * * 5"
+    - cron: "20 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Deno
+        - uses: denoland/setup-deno@v2
+          with:
+            deno-version: v2.x
+
+      - name: Run updater
+        env:
+          VAULT_BASE_URL: ${{ secrets.VAULT_BASE_URL }}
+          VAULT_USERNAME: ${{ secrets.VAULT_USERNAME }}
+          VAULT_PASSWORD: ${{ secrets.VAULT_PASSWORD }}
+          VAULT_TOTP: ${{ secrets.VAULT_TOTP }}           # optional
+          VAULT_TARGET_USER: ${{ secrets.VAULT_TARGET_USER }} # optional
+        run: deno run -A update_vods.ts
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config --local user.name ${{ github.actor }}
+            git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+            git add vods.json
+            git commit -m "automatically updated VODs"
+            git push
+          else
+            echo "No changes."
+          fi
