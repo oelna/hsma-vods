@@ -1,9 +1,10 @@
 name: Update VODs
 
+# UTC time!!
 on:
   schedule:
-    - cron: "15 11 * * 5"
-    - cron: "30 17 * * 5"
+    - cron: "15 9 * * 5"
+    - cron: "30 15 * * 5"
     - cron: "20 4 * * *"
   workflow_dispatch:
 
