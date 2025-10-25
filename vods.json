@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2025-10-24T15:37:14.180Z",
+    "generatedAt": "2025-10-25T04:30:21.030Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 30
+    "total": 31
   },
   "vods": [
     {
@@ -2015,6 +2015,73 @@
         }
       ],
       "filesFetchedAt": "2025-10-24T09:25:21.499Z"
+    },
+    {
+      "id": "658532138245885571",
+      "title": "HSMA WS25/26 HTML Stunde 4 * Werkschau live, @media *",
+      "channel": "oelna81",
+      "created_at": "1761306191",
+      "duration_seconds": "14879",
+      "twitch_id": "2600014586",
+      "files": [
+        {
+          "fileId": "2ieRrqckrb7ZwAPLDCSQFEQBkqrj8yV",
+          "fileName": "hsma-ws25-26-html-stunde-4-werkschau-live-media.animated-thumb.jpg",
+          "fileSizeRaw": 51866,
+          "fileSize": "51.87 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/658532138245885571/2600014586.animated_thumb.jpg?versionId=2ieRrqckrb7ZwAPLDCSQFEQBkqrj8yV&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NTg1MzIxMzgyNDU4ODU1NzEvMjYwMDAxNDU4Ni5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiIyaWVScnFja3JiN1p3QVBMRENTUUZFUUJrcXJqOHlWIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTQtd2Vya3NjaGF1LWxpdmUtbWVkaWEuYW5pbWF0ZWQtdGh1bWIuanBnIn0sImV4cCI6MTc2MTQwOTgyMCwiaWF0IjoxNzYxMzY2NjIwLCJuYmYiOjE3NjEzNjY2MTB9.voocGFSpLkFanMjnGW3xCAvQ2t8FMW7hJo9ZPzrahTA",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "4CNf8wvJiZc7E6ZXjZoT86WxB5chsiD",
+          "fileName": "hsma-ws25-26-html-stunde-4-werkschau-live-media.chat.json",
+          "fileSizeRaw": 39832,
+          "fileSize": "39.83 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/658532138245885571/2600014586.chat.json?versionId=4CNf8wvJiZc7E6ZXjZoT86WxB5chsiD&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NTg1MzIxMzgyNDU4ODU1NzEvMjYwMDAxNDU4Ni5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiI0Q05mOHd2SmlaYzdFNlpYalpvVDg2V3hCNWNoc2lEIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTQtd2Vya3NjaGF1LWxpdmUtbWVkaWEuY2hhdC5qc29uIn0sImV4cCI6MTc2MTQwOTgyMCwiaWF0IjoxNzYxMzY2NjIwLCJuYmYiOjE3NjEzNjY2MTB9.QL4dC33PkS0lwjsVguuxOr6nhTSfFzl8IyeNssYJOAA"
+        },
+        {
+          "fileId": "XHys-aWAXzBeGGgMNS3gluWMqhp9ioS",
+          "fileName": "hsma-ws25-26-html-stunde-4-werkschau-live-media.info.json",
+          "fileSizeRaw": 679,
+          "fileSize": "679.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/658532138245885571/2600014586.info.json?versionId=XHys-aWAXzBeGGgMNS3gluWMqhp9ioS&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NTg1MzIxMzgyNDU4ODU1NzEvMjYwMDAxNDU4Ni5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJYSHlzLWFXQVh6QmVHR2dNTlMzZ2x1V01xaHA5aW9TIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTQtd2Vya3NjaGF1LWxpdmUtbWVkaWEuaW5mby5qc29uIn0sImV4cCI6MTc2MTQwOTgyMCwiaWF0IjoxNzYxMzY2NjIwLCJuYmYiOjE3NjEzNjY2MTB9.ZnUgDTR4c26eZt6zGAZA7JJT44z9ROs-9-XmzDZLH3Q"
+        },
+        {
+          "fileId": "1QTb8WgZP6BQ8h-YluheW4K4Rn-LYgl",
+          "fileName": "hsma-ws25-26-html-stunde-4-werkschau-live-media.mp4",
+          "fileSizeRaw": 4978846629,
+          "fileSize": "4.98 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/658532138245885571/2600014586.mp4?versionId=1QTb8WgZP6BQ8h-YluheW4K4Rn-LYgl&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NTg1MzIxMzgyNDU4ODU1NzEvMjYwMDAxNDU4Ni5tcDQiLCJ2ZXJzaW9uSWQiOiIxUVRiOFdnWlA2QlE4aC1ZbHVoZVc0SzRSbi1MWWdsIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTQtd2Vya3NjaGF1LWxpdmUtbWVkaWEubXA0In0sImV4cCI6MTc2MTQwOTgyMCwiaWF0IjoxNzYxMzY2NjIwLCJuYmYiOjE3NjEzNjY2MTB9.n9ioMLmY0-uWbxAcavzufVnQa5rw-7w8T9kcOMpsA7A",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "2504966",
+            "duration": "14879.599333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "LcZ08-h9bHdwKzdV8OYMoFxJFEV5VrH",
+          "fileName": "hsma-ws25-26-html-stunde-4-werkschau-live-media.thumb.jpg",
+          "fileSizeRaw": 168344,
+          "fileSize": "168.34 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/658532138245885571/2600014586.thumb.jpg?versionId=LcZ08-h9bHdwKzdV8OYMoFxJFEV5VrH&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NTg1MzIxMzgyNDU4ODU1NzEvMjYwMDAxNDU4Ni50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJMY1owOC1oOWJIZHdLemRWOE9ZTW9GeEpGRVY1VnJIIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTQtd2Vya3NjaGF1LWxpdmUtbWVkaWEudGh1bWIuanBnIn0sImV4cCI6MTc2MTQwOTgyMCwiaWF0IjoxNzYxMzY2NjIwLCJuYmYiOjE3NjEzNjY2MTB9.tbz6wSTs6SgVP8xxzmqs6UTEu1PONrAz1wwKbP4oGg0",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2025-10-25T04:30:21.030Z"
     }
   ]
 }
