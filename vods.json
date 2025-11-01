@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2025-10-31T15:37:18.863Z",
+    "generatedAt": "2025-11-01T04:29:40.620Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 32
+    "total": 33
   },
   "vods": [
     {
@@ -2149,6 +2149,73 @@
         }
       ],
       "filesFetchedAt": "2025-10-31T15:37:18.863Z"
+    },
+    {
+      "id": "661066063916644630",
+      "title": "HSMA WS25/26 HTML Stunde 5 * was geht ab *",
+      "channel": "oelna81",
+      "created_at": "1761914469",
+      "duration_seconds": "10745",
+      "twitch_id": "2606007690",
+      "files": [
+        {
+          "fileId": "bpD9Mab6cGBgeo8..MN1uu8-d8.8UMo",
+          "fileName": "hsma-ws25-26-html-stunde-5-was-geht-ab.animated-thumb.jpg",
+          "fileSizeRaw": 53255,
+          "fileSize": "53.26 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/661066063916644630/2606007690.animated_thumb.jpg?versionId=bpD9Mab6cGBgeo8..MN1uu8-d8.8UMo&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NjEwNjYwNjM5MTY2NDQ2MzAvMjYwNjAwNzY5MC5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJicEQ5TWFiNmNHQmdlbzguLk1OMXV1OC1kOC44VU1vIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTUtd2FzLWdlaHQtYWIuYW5pbWF0ZWQtdGh1bWIuanBnIn0sImV4cCI6MTc2MjAxNDU4MCwiaWF0IjoxNzYxOTcxMzgwLCJuYmYiOjE3NjE5NzEzNzB9.Fo4TYo_hqOByppRuW6NGX2E8hleGVpRjgQVexGkD0lo",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "CZQMHTeYuWUvLYqo5V2Bwa5GG48--Yf",
+          "fileName": "hsma-ws25-26-html-stunde-5-was-geht-ab.chat.json",
+          "fileSizeRaw": 11507,
+          "fileSize": "11.51 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/661066063916644630/2606007690.chat.json?versionId=CZQMHTeYuWUvLYqo5V2Bwa5GG48--Yf&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NjEwNjYwNjM5MTY2NDQ2MzAvMjYwNjAwNzY5MC5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiJDWlFNSFRlWXVXVXZMWXFvNVYyQndhNUdHNDgtLVlmIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTUtd2FzLWdlaHQtYWIuY2hhdC5qc29uIn0sImV4cCI6MTc2MjAxNDU4MCwiaWF0IjoxNzYxOTcxMzgwLCJuYmYiOjE3NjE5NzEzNzB9.bnwq-DEcojyRPSyOevvPxpiFuInqKBfu7HDiamf-VMM"
+        },
+        {
+          "fileId": "jrKZBfMOyVLlFrCyo.kmHzRWOXzSKw7",
+          "fileName": "hsma-ws25-26-html-stunde-5-was-geht-ab.info.json",
+          "fileSizeRaw": 668,
+          "fileSize": "668.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/661066063916644630/2606007690.info.json?versionId=jrKZBfMOyVLlFrCyo.kmHzRWOXzSKw7&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NjEwNjYwNjM5MTY2NDQ2MzAvMjYwNjAwNzY5MC5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJqcktaQmZNT3lWTGxGckN5by5rbUh6UldPWHpTS3c3IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTUtd2FzLWdlaHQtYWIuaW5mby5qc29uIn0sImV4cCI6MTc2MjAxNDU4MCwiaWF0IjoxNzYxOTcxMzgwLCJuYmYiOjE3NjE5NzEzNzB9.oP7AHZ57HPqdK7PeoNb_hy1BI4VCyo35qSifnq9s9zI"
+        },
+        {
+          "fileId": "RQyAQGXjXMIUVNVDVRDGjdcZfUalFFv",
+          "fileName": "hsma-ws25-26-html-stunde-5-was-geht-ab.mp4",
+          "fileSizeRaw": 3593751518,
+          "fileSize": "3.59 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/661066063916644630/2606007690.mp4?versionId=RQyAQGXjXMIUVNVDVRDGjdcZfUalFFv&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NjEwNjYwNjM5MTY2NDQ2MzAvMjYwNjAwNzY5MC5tcDQiLCJ2ZXJzaW9uSWQiOiJSUXlBUUdYalhNSVVWTlZEVlJER2pkY1pmVWFsRkZ2IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTUtd2FzLWdlaHQtYWIubXA0In0sImV4cCI6MTc2MjAxNDU4MCwiaWF0IjoxNzYxOTcxMzgwLCJuYmYiOjE3NjE5NzEzNzB9.xSQ_29pso3Oojj_Wf0sh1Bw2_m36sXHfLgK3P3M40h4",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "2505637",
+            "duration": "10745.166333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "16fOcjWsAGEhCUZ9IPAxnewq7rlriRF",
+          "fileName": "hsma-ws25-26-html-stunde-5-was-geht-ab.thumb.jpg",
+          "fileSizeRaw": 262198,
+          "fileSize": "262.20 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/661066063916644630/2606007690.thumb.jpg?versionId=16fOcjWsAGEhCUZ9IPAxnewq7rlriRF&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NjEwNjYwNjM5MTY2NDQ2MzAvMjYwNjAwNzY5MC50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiIxNmZPY2pXc0FHRWhDVVo5SVBBeG5ld3E3cmxyaVJGIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTUtd2FzLWdlaHQtYWIudGh1bWIuanBnIn0sImV4cCI6MTc2MjAxNDU4MCwiaWF0IjoxNzYxOTcxMzgwLCJuYmYiOjE3NjE5NzEzNzB9.UqXzaJX3Cg8Tj2eD823BTfnEpUsEbY8cmr8_Jbr34l4",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2025-11-01T04:29:40.620Z"
     }
   ]
 }
