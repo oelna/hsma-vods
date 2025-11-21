@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2025-11-21T09:25:10.430Z",
+    "generatedAt": "2025-11-21T15:34:58.697Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 35
+    "total": 36
   },
   "vods": [
     {
@@ -2350,6 +2350,73 @@
         }
       ],
       "filesFetchedAt": "2025-11-15T04:30:38.851Z"
+    },
+    {
+      "id": "668585931729886042",
+      "title": "HSMA WS25/26 GCT2 Stunde 7 * CSS units *",
+      "channel": "oelna81",
+      "created_at": "1763712005",
+      "duration_seconds": "6091",
+      "twitch_id": "2624057783",
+      "files": [
+        {
+          "fileId": "5WIcSXBMj0TClV9CNsddxDibCD1Shtu",
+          "fileName": "hsma-ws25-26-gct2-stunde-7-css-units.animated-thumb.jpg",
+          "fileSizeRaw": 52000,
+          "fileSize": "52.00 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/668585931729886042/2624057783.animated_thumb.jpg?versionId=5WIcSXBMj0TClV9CNsddxDibCD1Shtu&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82Njg1ODU5MzE3Mjk4ODYwNDIvMjYyNDA1Nzc4My5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiI1V0ljU1hCTWowVENsVjlDTnNkZHhEaWJDRDFTaHR1IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWdjdDItc3R1bmRlLTctY3NzLXVuaXRzLmFuaW1hdGVkLXRodW1iLmpwZyJ9LCJleHAiOjE3NjM3ODI0OTgsImlhdCI6MTc2MzczOTI5OCwibmJmIjoxNzYzNzM5Mjg4fQ.r8aq7XH3ZFbPKsQLSUfw1KX5_4IZhqiKSzp_5P91yPs",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "Y72rKCHD6raVtB0nqpAoeIOnqQdrg.S",
+          "fileName": "hsma-ws25-26-gct2-stunde-7-css-units.chat.json",
+          "fileSizeRaw": 8244,
+          "fileSize": "8.24 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/668585931729886042/2624057783.chat.json?versionId=Y72rKCHD6raVtB0nqpAoeIOnqQdrg.S&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82Njg1ODU5MzE3Mjk4ODYwNDIvMjYyNDA1Nzc4My5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiJZNzJyS0NIRDZyYVZ0QjBucXBBb2VJT25xUWRyZy5TIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWdjdDItc3R1bmRlLTctY3NzLXVuaXRzLmNoYXQuanNvbiJ9LCJleHAiOjE3NjM3ODI0OTgsImlhdCI6MTc2MzczOTI5OCwibmJmIjoxNzYzNzM5Mjg4fQ.JqFVf-GBC3sJZVznTNjklywnBwk91zHoSpgX37XQW18"
+        },
+        {
+          "fileId": "w9tpdljXN2cx9EGlxOKFya-uvpyTpem",
+          "fileName": "hsma-ws25-26-gct2-stunde-7-css-units.info.json",
+          "fileSizeRaw": 665,
+          "fileSize": "665.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/668585931729886042/2624057783.info.json?versionId=w9tpdljXN2cx9EGlxOKFya-uvpyTpem&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82Njg1ODU5MzE3Mjk4ODYwNDIvMjYyNDA1Nzc4My5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJ3OXRwZGxqWE4yY3g5RUdseE9LRnlhLXV2cHlUcGVtIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWdjdDItc3R1bmRlLTctY3NzLXVuaXRzLmluZm8uanNvbiJ9LCJleHAiOjE3NjM3ODI0OTgsImlhdCI6MTc2MzczOTI5OCwibmJmIjoxNzYzNzM5Mjg4fQ.AcmYqeuwCr0XtfL45bQmT_kk8YyE1Mu4csyIyTvOQfM"
+        },
+        {
+          "fileId": "5MIG6DaMMPp80LkGvevPrKBpBQ-KI39",
+          "fileName": "hsma-ws25-26-gct2-stunde-7-css-units.mp4",
+          "fileSizeRaw": 2031009437,
+          "fileSize": "2.03 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/668585931729886042/2624057783.mp4?versionId=5MIG6DaMMPp80LkGvevPrKBpBQ-KI39&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82Njg1ODU5MzE3Mjk4ODYwNDIvMjYyNDA1Nzc4My5tcDQiLCJ2ZXJzaW9uSWQiOiI1TUlHNkRhTU1QcDgwTGtHdmV2UHJLQnBCUS1LSTM5IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWdjdDItc3R1bmRlLTctY3NzLXVuaXRzLm1wNCJ9LCJleHAiOjE3NjM3ODI0OTgsImlhdCI6MTc2MzczOTI5OCwibmJmIjoxNzYzNzM5Mjg4fQ.xuWZMEwQVLl_0K1-FHJPZPkK8Dl-_6wKAnDBeT1K2So",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "2498092",
+            "duration": "6091.166333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "QeErCaCUlQnmAi15rwbfO4KIom.igNR",
+          "fileName": "hsma-ws25-26-gct2-stunde-7-css-units.thumb.jpg",
+          "fileSizeRaw": 164674,
+          "fileSize": "164.67 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/668585931729886042/2624057783.thumb.jpg?versionId=QeErCaCUlQnmAi15rwbfO4KIom.igNR&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82Njg1ODU5MzE3Mjk4ODYwNDIvMjYyNDA1Nzc4My50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJRZUVyQ2FDVWxRbm1BaTE1cndiZk80S0lvbS5pZ05SIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWdjdDItc3R1bmRlLTctY3NzLXVuaXRzLnRodW1iLmpwZyJ9LCJleHAiOjE3NjM3ODI0OTgsImlhdCI6MTc2MzczOTI5OCwibmJmIjoxNzYzNzM5Mjg4fQ.RjcYCdFqUvzY0aTTVdPIg5fMihxP-fTUtgo00fQcqcc",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2025-11-21T15:34:58.697Z"
     }
   ]
 }
