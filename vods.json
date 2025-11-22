@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2025-11-21T15:34:58.697Z",
+    "generatedAt": "2025-11-22T04:31:04.349Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 36
+    "total": 37
   },
   "vods": [
     {
@@ -2417,6 +2417,73 @@
         }
       ],
       "filesFetchedAt": "2025-11-21T15:34:58.697Z"
+    },
+    {
+      "id": "668685362667952599",
+      "title": "HSMA WS25/26 HTML Stunde 7 * mannheim city guide *",
+      "channel": "oelna81",
+      "created_at": "1763729002",
+      "duration_seconds": "12793",
+      "twitch_id": "2624159069",
+      "files": [
+        {
+          "fileId": "rcSd1j86Fdl1LOStygDrM-5HFPX-Wh9",
+          "fileName": "hsma-ws25-26-html-stunde-7-mannheim-city-guide.animated-thumb.jpg",
+          "fileSizeRaw": 47470,
+          "fileSize": "47.47 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/668685362667952599/2624159069.animated_thumb.jpg?versionId=rcSd1j86Fdl1LOStygDrM-5HFPX-Wh9&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82Njg2ODUzNjI2Njc5NTI1OTkvMjYyNDE1OTA2OS5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJyY1NkMWo4NkZkbDFMT1N0eWdEck0tNUhGUFgtV2g5IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTctbWFubmhlaW0tY2l0eS1ndWlkZS5hbmltYXRlZC10aHVtYi5qcGcifSwiZXhwIjoxNzYzODI5MDY0LCJpYXQiOjE3NjM3ODU4NjQsIm5iZiI6MTc2Mzc4NTg1NH0.CowpYZrn7KbRz3EjjXuS7SLRP8L3YN6PK68p054uIXU",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "Aoo8dC90vPtJHL8CLUrJVu6WvrB.vqU",
+          "fileName": "hsma-ws25-26-html-stunde-7-mannheim-city-guide.chat.json",
+          "fileSizeRaw": 34477,
+          "fileSize": "34.48 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/668685362667952599/2624159069.chat.json?versionId=Aoo8dC90vPtJHL8CLUrJVu6WvrB.vqU&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82Njg2ODUzNjI2Njc5NTI1OTkvMjYyNDE1OTA2OS5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiJBb284ZEM5MHZQdEpITDhDTFVySlZ1Nld2ckIudnFVIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTctbWFubmhlaW0tY2l0eS1ndWlkZS5jaGF0Lmpzb24ifSwiZXhwIjoxNzYzODI5MDY0LCJpYXQiOjE3NjM3ODU4NjQsIm5iZiI6MTc2Mzc4NTg1NH0.aedl3EqXquMDycRR16TXVAXO-wUeUP041aWyXNn3XcQ"
+        },
+        {
+          "fileId": "CT.zuvuNK4fhO7GyMGW1nchsEBJMUKc",
+          "fileName": "hsma-ws25-26-html-stunde-7-mannheim-city-guide.info.json",
+          "fileSizeRaw": 676,
+          "fileSize": "676.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/668685362667952599/2624159069.info.json?versionId=CT.zuvuNK4fhO7GyMGW1nchsEBJMUKc&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82Njg2ODUzNjI2Njc5NTI1OTkvMjYyNDE1OTA2OS5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJDVC56dXZ1Tks0ZmhPN0d5TUdXMW5jaHNFQkpNVUtjIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTctbWFubmhlaW0tY2l0eS1ndWlkZS5pbmZvLmpzb24ifSwiZXhwIjoxNzYzODI5MDY0LCJpYXQiOjE3NjM3ODU4NjQsIm5iZiI6MTc2Mzc4NTg1NH0.jvmVyD7tHwUts8adeJHlrOEyaIrv1gYatk57Psfsmsg"
+        },
+        {
+          "fileId": "C8WLjodOPq7SV0UWXHvvSf7Dje8fGNk",
+          "fileName": "hsma-ws25-26-html-stunde-7-mannheim-city-guide.mp4",
+          "fileSizeRaw": 4282195974,
+          "fileSize": "4.28 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/668685362667952599/2624159069.mp4?versionId=C8WLjodOPq7SV0UWXHvvSf7Dje8fGNk&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82Njg2ODUzNjI2Njc5NTI1OTkvMjYyNDE1OTA2OS5tcDQiLCJ2ZXJzaW9uSWQiOiJDOFdMam9kT1BxN1NWMFVXWEh2dlNmN0RqZThmR05rIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTctbWFubmhlaW0tY2l0eS1ndWlkZS5tcDQifSwiZXhwIjoxNzYzODI5MDY0LCJpYXQiOjE3NjM3ODU4NjQsIm5iZiI6MTc2Mzc4NTg1NH0.E75dciQArDEfE8w5VYC5SEo2yOzLg-VVkCTzUOTaJU0",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "2507692",
+            "duration": "12793.833333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "xkhYsNGDSbl8LtPRnQttZSbDHaC2bbH",
+          "fileName": "hsma-ws25-26-html-stunde-7-mannheim-city-guide.thumb.jpg",
+          "fileSizeRaw": 180075,
+          "fileSize": "180.08 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/668685362667952599/2624159069.thumb.jpg?versionId=xkhYsNGDSbl8LtPRnQttZSbDHaC2bbH&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82Njg2ODUzNjI2Njc5NTI1OTkvMjYyNDE1OTA2OS50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJ4a2hZc05HRFNibDhMdFBSblF0dFpTYkRIYUMyYmJIIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTctbWFubmhlaW0tY2l0eS1ndWlkZS50aHVtYi5qcGcifSwiZXhwIjoxNzYzODI5MDY0LCJpYXQiOjE3NjM3ODU4NjQsIm5iZiI6MTc2Mzc4NTg1NH0.ayS9Lz_pQC7ItbOka9e_T4sMDSHdImyj5nAUKtR9lWc",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2025-11-22T04:31:04.349Z"
     }
   ]
 }
