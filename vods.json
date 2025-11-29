@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2025-11-28T15:36:47.256Z",
+    "generatedAt": "2025-11-29T04:31:23.656Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 38
+    "total": 39
   },
   "vods": [
     {
@@ -2551,6 +2551,73 @@
         }
       ],
       "filesFetchedAt": "2025-11-28T15:36:47.256Z"
+    },
+    {
+      "id": "671223101425102933",
+      "title": "HSMA WS25/26 HTML Stunde 8 * Cityguide 2 und Javascript *",
+      "channel": "oelna81",
+      "created_at": "1764333732",
+      "duration_seconds": "13105",
+      "twitch_id": "2630010374",
+      "files": [
+        {
+          "fileId": "FFbq7JfHB.Oj7ebmNX-uERcbTiKZiJw",
+          "fileName": "hsma-ws25-26-html-stunde-8-cityguide-2-und-javascript.animated-thumb.jpg",
+          "fileSizeRaw": 48800,
+          "fileSize": "48.80 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/671223101425102933/2630010374.animated_thumb.jpg?versionId=FFbq7JfHB.Oj7ebmNX-uERcbTiKZiJw&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NzEyMjMxMDE0MjUxMDI5MzMvMjYzMDAxMDM3NC5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJGRmJxN0pmSEIuT2o3ZWJtTlgtdUVSY2JUaUtaaUp3IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTgtY2l0eWd1aWRlLTItdW5kLWphdmFzY3JpcHQuYW5pbWF0ZWQtdGh1bWIuanBnIn0sImV4cCI6MTc2NDQzMzg4MywiaWF0IjoxNzY0MzkwNjgzLCJuYmYiOjE3NjQzOTA2NzN9.bXF0SnVuV4aLlHA7YobWyj4pigmdT-niMRVDTB3gK6U",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "1r0rfjSYwxwnRXVCpvIOy4DWd.z6DbD",
+          "fileName": "hsma-ws25-26-html-stunde-8-cityguide-2-und-javascript.chat.json",
+          "fileSizeRaw": 20999,
+          "fileSize": "21.00 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/671223101425102933/2630010374.chat.json?versionId=1r0rfjSYwxwnRXVCpvIOy4DWd.z6DbD&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NzEyMjMxMDE0MjUxMDI5MzMvMjYzMDAxMDM3NC5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiIxcjByZmpTWXd4d25SWFZDcHZJT3k0RFdkLno2RGJEIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTgtY2l0eWd1aWRlLTItdW5kLWphdmFzY3JpcHQuY2hhdC5qc29uIn0sImV4cCI6MTc2NDQzMzg4MywiaWF0IjoxNzY0MzkwNjgzLCJuYmYiOjE3NjQzOTA2NzN9.QTvKbC3C35ap07M8uz588DH57tx0E6WMXs3b485D2yU"
+        },
+        {
+          "fileId": "8u04XRXhckTSo4qjbY44nQe-EtZMpp.",
+          "fileName": "hsma-ws25-26-html-stunde-8-cityguide-2-und-javascript.info.json",
+          "fileSizeRaw": 683,
+          "fileSize": "683.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/671223101425102933/2630010374.info.json?versionId=8u04XRXhckTSo4qjbY44nQe-EtZMpp.&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NzEyMjMxMDE0MjUxMDI5MzMvMjYzMDAxMDM3NC5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiI4dTA0WFJYaGNrVFNvNHFqYlk0NG5RZS1FdFpNcHAuIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTgtY2l0eWd1aWRlLTItdW5kLWphdmFzY3JpcHQuaW5mby5qc29uIn0sImV4cCI6MTc2NDQzMzg4MywiaWF0IjoxNzY0MzkwNjgzLCJuYmYiOjE3NjQzOTA2NzN9.w6vd-TAlcWGdFUkZL0VVB7OaxS-_rLokDw0-Rp9hfAU"
+        },
+        {
+          "fileId": "1SXVX-aynAWjmtft6jXydJuf01unzpU",
+          "fileName": "hsma-ws25-26-html-stunde-8-cityguide-2-und-javascript.mp4",
+          "fileSizeRaw": 4389016129,
+          "fileSize": "4.39 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/671223101425102933/2630010374.mp4?versionId=1SXVX-aynAWjmtft6jXydJuf01unzpU&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NzEyMjMxMDE0MjUxMDI5MzMvMjYzMDAxMDM3NC5tcDQiLCJ2ZXJzaW9uSWQiOiIxU1hWWC1heW5BV2ptdGZ0NmpYeWRKdWYwMXVuenBVIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTgtY2l0eWd1aWRlLTItdW5kLWphdmFzY3JpcHQubXA0In0sImV4cCI6MTc2NDQzMzg4MywiaWF0IjoxNzY0MzkwNjgzLCJuYmYiOjE3NjQzOTA2NzN9.EOdkiBV-h8dnrE-O5SDRqxw-Gsv6P6WZMY65PhdeX74",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "2507991",
+            "duration": "13105.099333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "Evm.l3bKc1mrkkTvf5LlkBRN5wS8KX8",
+          "fileName": "hsma-ws25-26-html-stunde-8-cityguide-2-und-javascript.thumb.jpg",
+          "fileSizeRaw": 165699,
+          "fileSize": "165.70 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/671223101425102933/2630010374.thumb.jpg?versionId=Evm.l3bKc1mrkkTvf5LlkBRN5wS8KX8&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NzEyMjMxMDE0MjUxMDI5MzMvMjYzMDAxMDM3NC50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJFdm0ubDNiS2MxbXJra1R2ZjVMbGtCUk41d1M4S1g4IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTgtY2l0eWd1aWRlLTItdW5kLWphdmFzY3JpcHQudGh1bWIuanBnIn0sImV4cCI6MTc2NDQzMzg4MywiaWF0IjoxNzY0MzkwNjgzLCJuYmYiOjE3NjQzOTA2NzN9.v_GODMEML_Jep83fGCYwaOCm_eFhUGEtjyvr9As_beY",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2025-11-29T04:31:23.655Z"
     }
   ]
 }
