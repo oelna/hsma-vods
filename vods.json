@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2025-12-12T15:39:04.709Z",
+    "generatedAt": "2025-12-13T04:32:00.629Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 42
+    "total": 43
   },
   "vods": [
     {
@@ -2819,6 +2819,73 @@
         }
       ],
       "filesFetchedAt": "2025-12-12T15:39:04.709Z"
+    },
+    {
+      "id": "676296084605807955",
+      "title": "HSMA WS25/26 HTML Stunde 10 * Schule *",
+      "channel": "oelna81",
+      "created_at": "1765543266",
+      "duration_seconds": "13060",
+      "twitch_id": "2641865265",
+      "files": [
+        {
+          "fileId": "lx2mXrEFWmM0gE5bsY.RH4ItzvOrWTv",
+          "fileName": "hsma-ws25-26-html-stunde-10-schule.animated-thumb.jpg",
+          "fileSizeRaw": 55759,
+          "fileSize": "55.76 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/676296084605807955/2641865265.animated_thumb.jpg?versionId=lx2mXrEFWmM0gE5bsY.RH4ItzvOrWTv&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NzYyOTYwODQ2MDU4MDc5NTUvMjY0MTg2NTI2NS5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJseDJtWHJFRldtTTBnRTVic1kuUkg0SXR6dk9yV1R2IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTEwLXNjaHVsZS5hbmltYXRlZC10aHVtYi5qcGcifSwiZXhwIjoxNzY1NjQzNTIwLCJpYXQiOjE3NjU2MDAzMjAsIm5iZiI6MTc2NTYwMDMxMH0.ZQO6lI2x2XvblF8e7bycZgTZ7DN9yYUTocLkp87eXYg",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "ha3Il5.WFuHq59-TCv2emCsJfiksJO0",
+          "fileName": "hsma-ws25-26-html-stunde-10-schule.chat.json",
+          "fileSizeRaw": 9062,
+          "fileSize": "9.06 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/676296084605807955/2641865265.chat.json?versionId=ha3Il5.WFuHq59-TCv2emCsJfiksJO0&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NzYyOTYwODQ2MDU4MDc5NTUvMjY0MTg2NTI2NS5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiJoYTNJbDUuV0Z1SHE1OS1UQ3YyZW1Dc0pmaWtzSk8wIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTEwLXNjaHVsZS5jaGF0Lmpzb24ifSwiZXhwIjoxNzY1NjQzNTIwLCJpYXQiOjE3NjU2MDAzMjAsIm5iZiI6MTc2NTYwMDMxMH0.-g4tovbXX8aTtoBfktP_S2j27VwEtDBHn4gpxdBWntw"
+        },
+        {
+          "fileId": "tk.Gr4w.ytxr1DKUQgHstyeExs0B5Q4",
+          "fileName": "hsma-ws25-26-html-stunde-10-schule.info.json",
+          "fileSizeRaw": 664,
+          "fileSize": "664.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/676296084605807955/2641865265.info.json?versionId=tk.Gr4w.ytxr1DKUQgHstyeExs0B5Q4&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NzYyOTYwODQ2MDU4MDc5NTUvMjY0MTg2NTI2NS5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJ0ay5HcjR3Lnl0eHIxREtVUWdIc3R5ZUV4czBCNVE0IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTEwLXNjaHVsZS5pbmZvLmpzb24ifSwiZXhwIjoxNzY1NjQzNTIwLCJpYXQiOjE3NjU2MDAzMjAsIm5iZiI6MTc2NTYwMDMxMH0.S9THFsozPVkPQ27kSaoWDiOc5b9VpH1veAOxalcbI_4"
+        },
+        {
+          "fileId": "doK.PLwQhhzU-iFfeZDTqEmUFj9wn2K",
+          "fileName": "hsma-ws25-26-html-stunde-10-schule.mp4",
+          "fileSizeRaw": 4375731773,
+          "fileSize": "4.38 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/676296084605807955/2641865265.mp4?versionId=doK.PLwQhhzU-iFfeZDTqEmUFj9wn2K&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NzYyOTYwODQ2MDU4MDc5NTUvMjY0MTg2NTI2NS5tcDQiLCJ2ZXJzaW9uSWQiOiJkb0suUEx3UWhoelUtaUZmZVpEVHFFbVVGajl3bjJLIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTEwLXNjaHVsZS5tcDQifSwiZXhwIjoxNzY1NjQzNTIwLCJpYXQiOjE3NjU2MDAzMjAsIm5iZiI6MTc2NTYwMDMxMH0.d9VikVK2-uJGIst7-p3eNospCgTe2D5q6zg4ze-Pqkk",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "2508310",
+            "duration": "13060.833333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "RY2q1t5eqcENJqLrSlahcs5OyjbxcWB",
+          "fileName": "hsma-ws25-26-html-stunde-10-schule.thumb.jpg",
+          "fileSizeRaw": 211219,
+          "fileSize": "211.22 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/676296084605807955/2641865265.thumb.jpg?versionId=RY2q1t5eqcENJqLrSlahcs5OyjbxcWB&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82NzYyOTYwODQ2MDU4MDc5NTUvMjY0MTg2NTI2NS50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJSWTJxMXQ1ZXFjRU5KcUxyU2xhaGNzNU95amJ4Y1dCIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTEwLXNjaHVsZS50aHVtYi5qcGcifSwiZXhwIjoxNzY1NjQzNTIwLCJpYXQiOjE3NjU2MDAzMjAsIm5iZiI6MTc2NTYwMDMxMH0.eJs77r_FQsOuPEK_yG70hSR-lSKPrG9y3bwD9zUEO-4",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2025-12-13T04:32:00.629Z"
     }
   ]
 }
