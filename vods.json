@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-01-09T09:26:11.642Z",
+    "generatedAt": "2026-01-09T15:40:31.703Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 45
+    "total": 46
   },
   "vods": [
     {
@@ -3020,6 +3020,73 @@
         }
       ],
       "filesFetchedAt": "2025-12-20T04:31:40.013Z"
+    },
+    {
+      "id": "686346433561486147",
+      "title": "HSMA WS25/26 GCT2 Stunde 12 *Guten Rutsch! *",
+      "channel": "oelna81",
+      "created_at": "1767945888",
+      "duration_seconds": "6636",
+      "twitch_id": "2665138647",
+      "files": [
+        {
+          "fileId": "fzJVDX6Lii.P7yZ6fFnELy483GpsDbR",
+          "fileName": "hsma-ws25-26-gct2-stunde-12-guten-rutsch.animated-thumb.jpg",
+          "fileSizeRaw": 50449,
+          "fileSize": "50.45 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/686346433561486147/2665138647.animated_thumb.jpg?versionId=fzJVDX6Lii.P7yZ6fFnELy483GpsDbR&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82ODYzNDY0MzM1NjE0ODYxNDcvMjY2NTEzODY0Ny5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJmekpWRFg2TGlpLlA3eVo2ZkZuRUx5NDgzR3BzRGJSIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWdjdDItc3R1bmRlLTEyLWd1dGVuLXJ1dHNjaC5hbmltYXRlZC10aHVtYi5qcGcifSwiZXhwIjoxNzY4MDE2NDMxLCJpYXQiOjE3Njc5NzMyMzEsIm5iZiI6MTc2Nzk3MzIyMX0.XPrNLfkdf2aOVodcy4rRsB3cBXiQZ0XppqI5zakzvx4",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "43monQYlK-6Q3xdHyE---hwolcYeAvz",
+          "fileName": "hsma-ws25-26-gct2-stunde-12-guten-rutsch.chat.json",
+          "fileSizeRaw": 27110,
+          "fileSize": "27.11 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/686346433561486147/2665138647.chat.json?versionId=43monQYlK-6Q3xdHyE---hwolcYeAvz&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82ODYzNDY0MzM1NjE0ODYxNDcvMjY2NTEzODY0Ny5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiI0M21vblFZbEstNlEzeGRIeUUtLS1od29sY1llQXZ6IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWdjdDItc3R1bmRlLTEyLWd1dGVuLXJ1dHNjaC5jaGF0Lmpzb24ifSwiZXhwIjoxNzY4MDE2NDMxLCJpYXQiOjE3Njc5NzMyMzEsIm5iZiI6MTc2Nzk3MzIyMX0.teDdTw1H0zv7twmR6Fvh1t185G5mGpuXEuNumNfQPww"
+        },
+        {
+          "fileId": "8n71rpgiY3-pAKvvqjLjBDvnUDMldo2",
+          "fileName": "hsma-ws25-26-gct2-stunde-12-guten-rutsch.info.json",
+          "fileSizeRaw": 669,
+          "fileSize": "669.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/686346433561486147/2665138647.info.json?versionId=8n71rpgiY3-pAKvvqjLjBDvnUDMldo2&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82ODYzNDY0MzM1NjE0ODYxNDcvMjY2NTEzODY0Ny5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiI4bjcxcnBnaVkzLXBBS3Z2cWpMakJEdm5VRE1sZG8yIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWdjdDItc3R1bmRlLTEyLWd1dGVuLXJ1dHNjaC5pbmZvLmpzb24ifSwiZXhwIjoxNzY4MDE2NDMxLCJpYXQiOjE3Njc5NzMyMzEsIm5iZiI6MTc2Nzk3MzIyMX0.Hgogy6nYFwST88ashCwKDvbgD4mupWSuz7tJFaXpNcE"
+        },
+        {
+          "fileId": "ytlJu5PG16SYrtABXXOX9fucyTuYLkI",
+          "fileName": "hsma-ws25-26-gct2-stunde-12-guten-rutsch.mp4",
+          "fileSizeRaw": 2212908666,
+          "fileSize": "2.21 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/686346433561486147/2665138647.mp4?versionId=ytlJu5PG16SYrtABXXOX9fucyTuYLkI&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82ODYzNDY0MzM1NjE0ODYxNDcvMjY2NTEzODY0Ny5tcDQiLCJ2ZXJzaW9uSWQiOiJ5dGxKdTVQRzE2U1lydEFCWFhPWDlmdWN5VHVZTGtJIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWdjdDItc3R1bmRlLTEyLWd1dGVuLXJ1dHNjaC5tcDQifSwiZXhwIjoxNzY4MDE2NDMxLCJpYXQiOjE3Njc5NzMyMzEsIm5iZiI6MTc2Nzk3MzIyMX0.BUAUG724WtMCaO5aIfS1vzjGG_gC8eTwOKxvJ4wI2vM",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "2497440",
+            "duration": "6636.833333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "cjJF8N5aHAFOHN4EsQaTDSFNTicFVCQ",
+          "fileName": "hsma-ws25-26-gct2-stunde-12-guten-rutsch.thumb.jpg",
+          "fileSizeRaw": 274256,
+          "fileSize": "274.26 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/686346433561486147/2665138647.thumb.jpg?versionId=cjJF8N5aHAFOHN4EsQaTDSFNTicFVCQ&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82ODYzNDY0MzM1NjE0ODYxNDcvMjY2NTEzODY0Ny50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJjakpGOE41YUhBRk9ITjRFc1FhVERTRk5UaWNGVkNRIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWdjdDItc3R1bmRlLTEyLWd1dGVuLXJ1dHNjaC50aHVtYi5qcGcifSwiZXhwIjoxNzY4MDE2NDMxLCJpYXQiOjE3Njc5NzMyMzEsIm5iZiI6MTc2Nzk3MzIyMX0.eJio5_99l-c5vH9h7ICOMq3yV9Ox_0EDufgg82V_S1Y",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2026-01-09T15:40:31.703Z"
     }
   ]
 }
