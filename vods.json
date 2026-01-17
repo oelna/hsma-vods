@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-01-16T15:40:12.300Z",
+    "generatedAt": "2026-01-17T04:32:30.329Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
     "total": 49
@@ -3158,8 +3158,69 @@
     {
       "id": "688969417845630802",
       "twitch_id": "2671471733",
-      "files": [],
-      "filesFetchedAt": "2026-01-16T15:40:12.175Z"
+      "files": [
+        {
+          "fileId": "GTKbHRNDMJ3r1w3xQ8HaWHIEkH0LJnq",
+          "fileName": "hsma-ws25-26-html-stunde-13-finale.animated-thumb.jpg",
+          "fileSizeRaw": 55865,
+          "fileSize": "55.87 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/688969417845630802/2671471733.animated_thumb.jpg?versionId=GTKbHRNDMJ3r1w3xQ8HaWHIEkH0LJnq&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82ODg5Njk0MTc4NDU2MzA4MDIvMjY3MTQ3MTczMy5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJHVEtiSFJORE1KM3IxdzN4UThIYVdISUVrSDBMSm5xIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTEzLWZpbmFsZS5hbmltYXRlZC10aHVtYi5qcGcifSwiZXhwIjoxNzY4NjY3NTUwLCJpYXQiOjE3Njg2MjQzNTAsIm5iZiI6MTc2ODYyNDM0MH0.7tic8pcw9gjcwxr5Ljefni7VujKoc6sUMHmFPJ7ucrk",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "bqd.-ZX-dm4hv3.Ys1CCePgG-k8XQNH",
+          "fileName": "hsma-ws25-26-html-stunde-13-finale.chat.json",
+          "fileSizeRaw": 24635,
+          "fileSize": "24.64 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/688969417845630802/2671471733.chat.json?versionId=bqd.-ZX-dm4hv3.Ys1CCePgG-k8XQNH&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82ODg5Njk0MTc4NDU2MzA4MDIvMjY3MTQ3MTczMy5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiJicWQuLVpYLWRtNGh2My5ZczFDQ2VQZ0ctazhYUU5IIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTEzLWZpbmFsZS5jaGF0Lmpzb24ifSwiZXhwIjoxNzY4NjY3NTUwLCJpYXQiOjE3Njg2MjQzNTAsIm5iZiI6MTc2ODYyNDM0MH0.BPRUMgM_370kBsb3UD_bdAptbmZAriq6i8DA_k3_ylc"
+        },
+        {
+          "fileId": "0dErQAVAeTvwlCjccsL.Gj-AYyl8Hf-",
+          "fileName": "hsma-ws25-26-html-stunde-13-finale.info.json",
+          "fileSizeRaw": 665,
+          "fileSize": "665.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/688969417845630802/2671471733.info.json?versionId=0dErQAVAeTvwlCjccsL.Gj-AYyl8Hf-&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82ODg5Njk0MTc4NDU2MzA4MDIvMjY3MTQ3MTczMy5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiIwZEVyUUFWQWVUdndsQ2pjY3NMLkdqLUFZeWw4SGYtIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTEzLWZpbmFsZS5pbmZvLmpzb24ifSwiZXhwIjoxNzY4NjY3NTUwLCJpYXQiOjE3Njg2MjQzNTAsIm5iZiI6MTc2ODYyNDM0MH0.DX3dICDQVzcjyxtFlN-NgVeELmEubOrhGQijWfA0p8U"
+        },
+        {
+          "fileId": "I6d6xV2z7pTzXy2E5Hw5JHCyJ2adgr.",
+          "fileName": "hsma-ws25-26-html-stunde-13-finale.mp4",
+          "fileSizeRaw": 3490294176,
+          "fileSize": "3.49 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/688969417845630802/2671471733.mp4?versionId=I6d6xV2z7pTzXy2E5Hw5JHCyJ2adgr.&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82ODg5Njk0MTc4NDU2MzA4MDIvMjY3MTQ3MTczMy5tcDQiLCJ2ZXJzaW9uSWQiOiJJNmQ2eFYyejdwVHpYeTJFNUh3NUpIQ3lKMmFkZ3IuIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTEzLWZpbmFsZS5tcDQifSwiZXhwIjoxNzY4NjY3NTUwLCJpYXQiOjE3Njg2MjQzNTAsIm5iZiI6MTc2ODYyNDM0MH0.JwmNy5kChgH3s8prnNvJR0UbXrb_5Pzlnxw3BFP5R28",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "2505192",
+            "duration": "10437.566333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "PhZr6iZrUtGs4ZrY9bi8Wso6SDu08xg",
+          "fileName": "hsma-ws25-26-html-stunde-13-finale.thumb.jpg",
+          "fileSizeRaw": 239835,
+          "fileSize": "239.84 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/688969417845630802/2671471733.thumb.jpg?versionId=PhZr6iZrUtGs4ZrY9bi8Wso6SDu08xg&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC82ODg5Njk0MTc4NDU2MzA4MDIvMjY3MTQ3MTczMy50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJQaFpyNmlaclV0R3M0WnJZOWJpOFdzbzZTRHUwOHhnIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI1LTI2LWh0bWwtc3R1bmRlLTEzLWZpbmFsZS50aHVtYi5qcGcifSwiZXhwIjoxNzY4NjY3NTUwLCJpYXQiOjE3Njg2MjQzNTAsIm5iZiI6MTc2ODYyNDM0MH0._zZEAVOqbuuAvszAgniYwwIhG2ibQT67vVU0rdwYn2c",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2026-01-17T04:32:30.329Z",
+      "title": "HSMA WS25/26 HTML Stunde 13 * Finale! *",
+      "channel": "oelna81",
+      "created_at": "1768567446",
+      "duration_seconds": "10437"
     },
     {
       "id": "688884841514306752",
