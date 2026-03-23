@@ -2,6 +2,7 @@ const res = await fetch('vods.json', { cache: 'no-cache' });
 const data = await res.json();
 const vods = data.vods.reverse() || [];
 const fmt = new Intl.DateTimeFormat('de-DE', { timeZone: 'Europe/Berlin', dateStyle: 'medium', timeStyle: 'short' });
+const fmtDT = new Intl.DateTimeFormat('de-DE', { timeZone: 'Europe/Berlin', dateStyle: 'medium', timeStyle: 'short' });
 
 const hm = s => {
 	if (s == null) return '';
@@ -26,17 +27,20 @@ for (const v of vods) {
 	const title = v.title || '(untitled)';
 	const when = v.created_at;
 	const dateStr = when ? fmt.format(new Date(when * 1000)) : '';
+	// const ts = when ? new Date(when * 1000).toISOString().split('.')[0].replace('T', ' ') : '';
+	const ts = Temporal.Instant.fromEpochMilliseconds(new Date(when * 1000).getTime()).toString({ timeZone: 'Europe/Berlin', smallestUnit: 'second' });
+
 	const lenStr  = hm(v.duration_seconds);
 	const chan    = v.channel || v.twitch_id || '';
 
 	const titleRegex = /HSMA ([WS]S[0-9\/]+) (HTML|GCT2|VIR|VSTG|INT) (.*)/gi;
-	const titleFormatted = title.replace(titleRegex, "<span class=\"semester\">$1</span> <span class=\"course\">$2</span> <span class=\"title-text\">$3</span>");
+	const titleFormatted = title.replace(titleRegex, "<span class=\"semester\">$1</span> <span class=\"course $2\">$2</span> <span class=\"title-text\">$3</span>");
 	console.log(titleFormatted);
 
 	div.innerHTML = `
 		<summary>
 			<span class="title">${titleFormatted}</span>
-			<span class="timestamp">${escapeHtml(dateStr)}</span>
+			<time class="timestamp" datetime="${ts}">${dateStr}</time>
 			<span class="duration">${escapeHtml(lenStr)}</span>
 		</summary>`;
 	/*

@@ -31,13 +31,19 @@ h1 {
 
 			.semester, .course { flex-basis: 8ch; background-color: pink; border-radius: 0.9em; corner-shape: squircle; text-align: center; padding: 0.1em 0.2em; }
 			.course { flex-basis: 10ch; background-color: #007aff; color: #fff; }
+			.course.GCT2 { background-color: #63ac63; }
 			.title-text { flex: 1; }
 			.title-text:hover {
 				color: #007aff;
 			}
+
 		}
 		.timestamp { flex-basis: 20ch; }
-		.duration { flex-basis: 20ch; text-align: right; }
+		.duration { flex-basis: 10ch; text-align: right; }
+
+		&:hover :is(.semester, .course, .timestamp, .duration) {
+			filter: brightness(1.15);
+		}
 	}
 }
 
