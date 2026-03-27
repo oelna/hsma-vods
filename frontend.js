@@ -27,8 +27,8 @@ for (const v of vods) {
 	const title = v.title || '(untitled)';
 	const when = v.created_at;
 	const dateStr = when ? fmt.format(new Date(when * 1000)) : '';
-	// const ts = when ? new Date(when * 1000).toISOString().split('.')[0].replace('T', ' ') : '';
-	const ts = Temporal.Instant.fromEpochMilliseconds(new Date(when * 1000).getTime()).toString({ timeZone: 'Europe/Berlin', smallestUnit: 'second' });
+	const ts = when ? new Date(when * 1000).toISOString().split('.')[0].replace('T', ' ') : '';
+	// const ts = Temporal.Instant.fromEpochMilliseconds(new Date(when * 1000).getTime()).toString({ timeZone: 'Europe/Berlin', smallestUnit: 'second' });
 
 	const lenStr  = hm(v.duration_seconds);
 	const chan    = v.channel || v.twitch_id || '';
