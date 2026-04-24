@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-04-24T05:18:48.210Z",
+    "generatedAt": "2026-04-24T09:52:52.058Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 55
+    "total": 56
   },
   "vods": [
     {
@@ -3690,6 +3690,73 @@
         }
       ],
       "filesFetchedAt": "2026-04-10T15:49:09.844Z"
+    },
+    {
+      "id": "724377975374168265",
+      "title": "HSMA SS26 GCT2 Stunde 4 * Tabellen + Bilder:innen *",
+      "channel": "oelna81",
+      "created_at": "1777014106",
+      "duration_seconds": "5838",
+      "twitch_id": "2755723119",
+      "files": [
+        {
+          "fileId": "6EiDJqNTjNFIBomAmBkJomOzFZQP1ez",
+          "fileName": "hsma-ss26-gct2-stunde-4-tabellen-bilder-innen.animated-thumb.jpg",
+          "fileSizeRaw": 42308,
+          "fileSize": "42.31 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/724377975374168265/2755723119.animated_thumb.jpg?versionId=6EiDJqNTjNFIBomAmBkJomOzFZQP1ez&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83MjQzNzc5NzUzNzQxNjgyNjUvMjc1NTcyMzExOS5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiI2RWlESnFOVGpORklCb21BbUJrSm9tT3pGWlFQMWV6IiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTQtdGFiZWxsZW4tYmlsZGVyLWlubmVuLmFuaW1hdGVkLXRodW1iLmpwZyJ9LCJleHAiOjE3NzcwNjc1NzEsImlhdCI6MTc3NzAyNDM3MSwibmJmIjoxNzc3MDI0MzYxfQ.qy-MV_h7_fTL_4dIt6mMb19QV0e0oCoZ3dhTjGceuWM",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "tRFAj.wvWAr9NbiE8AqIwG2jioEMK8V",
+          "fileName": "hsma-ss26-gct2-stunde-4-tabellen-bilder-innen.chat.json",
+          "fileSizeRaw": 13435,
+          "fileSize": "13.44 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/724377975374168265/2755723119.chat.json?versionId=tRFAj.wvWAr9NbiE8AqIwG2jioEMK8V&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83MjQzNzc5NzUzNzQxNjgyNjUvMjc1NTcyMzExOS5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiJ0UkZBai53dldBcjlOYmlFOEFxSXdHMmppb0VNSzhWIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTQtdGFiZWxsZW4tYmlsZGVyLWlubmVuLmNoYXQuanNvbiJ9LCJleHAiOjE3NzcwNjc1NzEsImlhdCI6MTc3NzAyNDM3MSwibmJmIjoxNzc3MDI0MzYxfQ.KbUR3w1BV49YLhke5hg1r454x-gggayuK2RvlWJ0U_I"
+        },
+        {
+          "fileId": "fAsuAdQjqa4jdPwNgar51yu2IX9Edl2",
+          "fileName": "hsma-ss26-gct2-stunde-4-tabellen-bilder-innen.info.json",
+          "fileSizeRaw": 676,
+          "fileSize": "676.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/724377975374168265/2755723119.info.json?versionId=fAsuAdQjqa4jdPwNgar51yu2IX9Edl2&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83MjQzNzc5NzUzNzQxNjgyNjUvMjc1NTcyMzExOS5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJmQXN1QWRRanFhNGpkUHdOZ2FyNTF5dTJJWDlFZGwyIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTQtdGFiZWxsZW4tYmlsZGVyLWlubmVuLmluZm8uanNvbiJ9LCJleHAiOjE3NzcwNjc1NzEsImlhdCI6MTc3NzAyNDM3MSwibmJmIjoxNzc3MDI0MzYxfQ.0nCsgjgo3x3kTgfDg77jXWpeHGE0UYiHGJ_nw5APvYM"
+        },
+        {
+          "fileId": "56kQoIx0DZGe.0tN11NbZjgMiVZxrua",
+          "fileName": "hsma-ss26-gct2-stunde-4-tabellen-bilder-innen.mp4",
+          "fileSizeRaw": 3769669424,
+          "fileSize": "3.77 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/724377975374168265/2755723119.mp4?versionId=56kQoIx0DZGe.0tN11NbZjgMiVZxrua&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83MjQzNzc5NzUzNzQxNjgyNjUvMjc1NTcyMzExOS5tcDQiLCJ2ZXJzaW9uSWQiOiI1NmtRb0l4MERaR2UuMHROMTFOYlpqZ01pVlp4cnVhIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTQtdGFiZWxsZW4tYmlsZGVyLWlubmVuLm1wNCJ9LCJleHAiOjE3NzcwNjc1NzEsImlhdCI6MTc3NzAyNDM3MSwibmJmIjoxNzc3MDI0MzYxfQ.JR3vLYcda5eUgLgHozMblzbfBdtNStIkoDpLeCn4GM4",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "4995240",
+            "duration": "5838.533333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "O96pXIE-.0P8oGc.KFYrln.0JHSJ46w",
+          "fileName": "hsma-ss26-gct2-stunde-4-tabellen-bilder-innen.thumb.jpg",
+          "fileSizeRaw": 239542,
+          "fileSize": "239.54 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/724377975374168265/2755723119.thumb.jpg?versionId=O96pXIE-.0P8oGc.KFYrln.0JHSJ46w&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83MjQzNzc5NzUzNzQxNjgyNjUvMjc1NTcyMzExOS50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJPOTZwWElFLS4wUDhvR2MuS0ZZcmxuLjBKSFNKNDZ3IiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTQtdGFiZWxsZW4tYmlsZGVyLWlubmVuLnRodW1iLmpwZyJ9LCJleHAiOjE3NzcwNjc1NzEsImlhdCI6MTc3NzAyNDM3MSwibmJmIjoxNzc3MDI0MzYxfQ.GNyUEKUQbJQwA0_BmRQAjtHeH5a-iRVEfNysjNPzRhc",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2026-04-24T09:52:52.058Z"
     }
   ]
 }
