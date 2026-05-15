@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-05-15T10:04:23.080Z",
+    "generatedAt": "2026-05-15T16:14:08.745Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 59
+    "total": 60
   },
   "vods": [
     {
@@ -3958,6 +3958,73 @@
         }
       ],
       "filesFetchedAt": "2026-05-15T10:04:23.080Z"
+    },
+    {
+      "id": "732077214545323193",
+      "title": "HSMA SS26 HTML Stunde 6 * Ich bin wach! *",
+      "channel": "oelna81",
+      "created_at": "1778845692",
+      "duration_seconds": "9895",
+      "twitch_id": "2772514169",
+      "files": [
+        {
+          "fileId": "hdWFFrabQ0kUdvAMiZvIF7gOge8c-X0",
+          "fileName": "hsma-ss26-html-stunde-6-ich-bin-wach.animated-thumb.jpg",
+          "fileSizeRaw": 50814,
+          "fileSize": "50.81 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/732077214545323193/2772514169.animated_thumb.jpg?versionId=hdWFFrabQ0kUdvAMiZvIF7gOge8c-X0&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83MzIwNzcyMTQ1NDUzMjMxOTMvMjc3MjUxNDE2OS5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJoZFdGRnJhYlEwa1VkdkFNaVp2SUY3Z09nZThjLVgwIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWh0bWwtc3R1bmRlLTYtaWNoLWJpbi13YWNoLmFuaW1hdGVkLXRodW1iLmpwZyJ9LCJleHAiOjE3Nzg5MDQ4NDgsImlhdCI6MTc3ODg2MTY0OCwibmJmIjoxNzc4ODYxNjM4fQ.IorwW4zvNAnEEmJ3-oEaM69ofB_K5QAWiXkvVg9mgOg",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "fXMC4Ux5hrjnFzY.wzh7hWjpZcD914N",
+          "fileName": "hsma-ss26-html-stunde-6-ich-bin-wach.chat.json",
+          "fileSizeRaw": 2453,
+          "fileSize": "2.45 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/732077214545323193/2772514169.chat.json?versionId=fXMC4Ux5hrjnFzY.wzh7hWjpZcD914N&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83MzIwNzcyMTQ1NDUzMjMxOTMvMjc3MjUxNDE2OS5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiJmWE1DNFV4NWhyam5Gelkud3poN2hXanBaY0Q5MTROIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWh0bWwtc3R1bmRlLTYtaWNoLWJpbi13YWNoLmNoYXQuanNvbiJ9LCJleHAiOjE3Nzg5MDQ4NDgsImlhdCI6MTc3ODg2MTY0OCwibmJmIjoxNzc4ODYxNjM4fQ.d07K4xRWReZPlm4VBVvSSi4Oz8xobXNXqX2kQBI60bE"
+        },
+        {
+          "fileId": "nmtIMGkgDdzylsezV9b4UCv6gR0.0Qr",
+          "fileName": "hsma-ss26-html-stunde-6-ich-bin-wach.info.json",
+          "fileSizeRaw": 666,
+          "fileSize": "666.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/732077214545323193/2772514169.info.json?versionId=nmtIMGkgDdzylsezV9b4UCv6gR0.0Qr&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83MzIwNzcyMTQ1NDUzMjMxOTMvMjc3MjUxNDE2OS5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJubXRJTUdrZ0Rkenlsc2V6VjliNFVDdjZnUjAuMFFyIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWh0bWwtc3R1bmRlLTYtaWNoLWJpbi13YWNoLmluZm8uanNvbiJ9LCJleHAiOjE3Nzg5MDQ4NDgsImlhdCI6MTc3ODg2MTY0OCwibmJmIjoxNzc4ODYxNjM4fQ.WYN7JdkO93iOR0Gfjavgq4A-Ueh0hX5RsibMOJRwaUk"
+        },
+        {
+          "fileId": "HwFyK7ZSzF9sFyKcQ8SQYPsMl5hgYU3",
+          "fileName": "hsma-ss26-html-stunde-6-ich-bin-wach.mp4",
+          "fileSizeRaw": 6401924291,
+          "fileSize": "6.40 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/732077214545323193/2772514169.mp4?versionId=HwFyK7ZSzF9sFyKcQ8SQYPsMl5hgYU3&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83MzIwNzcyMTQ1NDUzMjMxOTMvMjc3MjUxNDE2OS5tcDQiLCJ2ZXJzaW9uSWQiOiJId0Z5SzdaU3pGOXNGeUtjUThTUVlQc01sNWhnWVUzIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWh0bWwtc3R1bmRlLTYtaWNoLWJpbi13YWNoLm1wNCJ9LCJleHAiOjE3Nzg5MDQ4NDgsImlhdCI6MTc3ODg2MTY0OCwibmJmIjoxNzc4ODYxNjM4fQ.-J1xznhC0btj4LVWge23GJ7fFV_lsZxzwYnik4HXb7o",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "5003604",
+            "duration": "9895.733333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "X.Dr4vnoJjjZmp6roQngoHEp-vZ9INf",
+          "fileName": "hsma-ss26-html-stunde-6-ich-bin-wach.thumb.jpg",
+          "fileSizeRaw": 207942,
+          "fileSize": "207.94 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/732077214545323193/2772514169.thumb.jpg?versionId=X.Dr4vnoJjjZmp6roQngoHEp-vZ9INf&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83MzIwNzcyMTQ1NDUzMjMxOTMvMjc3MjUxNDE2OS50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJYLkRyNHZub0pqalptcDZyb1FuZ29IRXAtdlo5SU5mIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWh0bWwtc3R1bmRlLTYtaWNoLWJpbi13YWNoLnRodW1iLmpwZyJ9LCJleHAiOjE3Nzg5MDQ4NDgsImlhdCI6MTc3ODg2MTY0OCwibmJmIjoxNzc4ODYxNjM4fQ.ghu4cFIdvCqdGrQbYPiTc--cYvbTDNz1xavzzblIoZc",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2026-05-15T16:14:08.744Z"
     }
   ]
 }
