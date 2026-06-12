@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-06-12T05:58:57.494Z",
+    "generatedAt": "2026-06-12T10:43:40.289Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 65
+    "total": 66
   },
   "vods": [
     {
@@ -4353,6 +4353,73 @@
         }
       ],
       "filesFetchedAt": "2026-06-05T16:22:15.973Z"
+    },
+    {
+      "id": "742136157086845428",
+      "title": "HSMA SS26 GCT2 Stunde 9 * Webfonts, Flexbox *",
+      "channel": "oelna81",
+      "created_at": "1781247722",
+      "duration_seconds": "6102",
+      "twitch_id": "2794709899",
+      "files": [
+        {
+          "fileId": "-K01H4CpJeKPm08DOcVdA6b4RwiID6G",
+          "fileName": "hsma-ss26-gct2-stunde-9-webfonts-flexbox.animated-thumb.jpg",
+          "fileSizeRaw": 47588,
+          "fileSize": "47.59 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/742136157086845428/2794709899.animated_thumb.jpg?versionId=-K01H4CpJeKPm08DOcVdA6b4RwiID6G&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDIxMzYxNTcwODY4NDU0MjgvMjc5NDcwOTg5OS5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiItSzAxSDRDcEplS1BtMDhET2NWZEE2YjRSd2lJRDZHIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTktd2ViZm9udHMtZmxleGJveC5hbmltYXRlZC10aHVtYi5qcGcifSwiZXhwIjoxNzgxMzA0MjIwLCJpYXQiOjE3ODEyNjEwMjAsIm5iZiI6MTc4MTI2MTAxMH0.2UL-Z1vAdeAraw0_aOnhwxfXEzHmEsNSnCcyY2Yr8EQ",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "A0JzBAQa2EU4sJkEHyEOT-dQLDUbMsz",
+          "fileName": "hsma-ss26-gct2-stunde-9-webfonts-flexbox.chat.json",
+          "fileSizeRaw": 12669,
+          "fileSize": "12.67 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/742136157086845428/2794709899.chat.json?versionId=A0JzBAQa2EU4sJkEHyEOT-dQLDUbMsz&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDIxMzYxNTcwODY4NDU0MjgvMjc5NDcwOTg5OS5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiJBMEp6QkFRYTJFVTRzSmtFSHlFT1QtZFFMRFViTXN6IiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTktd2ViZm9udHMtZmxleGJveC5jaGF0Lmpzb24ifSwiZXhwIjoxNzgxMzA0MjIwLCJpYXQiOjE3ODEyNjEwMjAsIm5iZiI6MTc4MTI2MTAxMH0.KAY2O-HRkkr2ji342T5vf-DZwWboXDhoRantHLC9H-8"
+        },
+        {
+          "fileId": "DKIHk7lMZKt3E.FRHrysyTWTfVnXeg.",
+          "fileName": "hsma-ss26-gct2-stunde-9-webfonts-flexbox.info.json",
+          "fileSizeRaw": 670,
+          "fileSize": "670.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/742136157086845428/2794709899.info.json?versionId=DKIHk7lMZKt3E.FRHrysyTWTfVnXeg.&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDIxMzYxNTcwODY4NDU0MjgvMjc5NDcwOTg5OS5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJES0lIazdsTVpLdDNFLkZSSHJ5c3lUV1RmVm5YZWcuIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTktd2ViZm9udHMtZmxleGJveC5pbmZvLmpzb24ifSwiZXhwIjoxNzgxMzA0MjIwLCJpYXQiOjE3ODEyNjEwMjAsIm5iZiI6MTc4MTI2MTAxMH0.0VxcHExvkUaH0UvK2lq6ao_uivTdwAE0JIGHv4TyUV8"
+        },
+        {
+          "fileId": "uRHnrKapP7pXLw2EO9SsOqq7oSJq8IL",
+          "fileName": "hsma-ss26-gct2-stunde-9-webfonts-flexbox.mp4",
+          "fileSizeRaw": 3926395798,
+          "fileSize": "3.93 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/742136157086845428/2794709899.mp4?versionId=uRHnrKapP7pXLw2EO9SsOqq7oSJq8IL&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDIxMzYxNTcwODY4NDU0MjgvMjc5NDcwOTg5OS5tcDQiLCJ2ZXJzaW9uSWQiOiJ1UkhuckthcFA3cFhMdzJFTzlTc09xcTdvU0pxOElMIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTktd2ViZm9udHMtZmxleGJveC5tcDQifSwiZXhwIjoxNzgxMzA0MjIwLCJpYXQiOjE3ODEyNjEwMjAsIm5iZiI6MTc4MTI2MTAxMH0.En5vDmJauCF3KLzLEMTZ4fb5WPkXF2HFLEmC6VKCd9c",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "4977276",
+            "duration": "6102.533333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "x9iDIPEYuG47W9d1hkWV-c41VSi9sjD",
+          "fileName": "hsma-ss26-gct2-stunde-9-webfonts-flexbox.thumb.jpg",
+          "fileSizeRaw": 207877,
+          "fileSize": "207.88 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/742136157086845428/2794709899.thumb.jpg?versionId=x9iDIPEYuG47W9d1hkWV-c41VSi9sjD&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDIxMzYxNTcwODY4NDU0MjgvMjc5NDcwOTg5OS50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJ4OWlESVBFWXVHNDdXOWQxaGtXVi1jNDFWU2k5c2pEIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTktd2ViZm9udHMtZmxleGJveC50aHVtYi5qcGcifSwiZXhwIjoxNzgxMzA0MjIwLCJpYXQiOjE3ODEyNjEwMjAsIm5iZiI6MTc4MTI2MTAxMH0.KtggDTGkwQGQFo11byN4Rmkuj_6e-XyhDtc96B3Rm4c",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2026-06-12T10:43:40.289Z"
     }
   ]
 }
