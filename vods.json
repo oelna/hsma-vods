@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T05:47:17.641Z",
+    "generatedAt": "2026-06-26T10:24:30.720Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 69
+    "total": 70
   },
   "vods": [
     {
@@ -4621,6 +4621,73 @@
         }
       ],
       "filesFetchedAt": "2026-06-19T16:23:35.539Z"
+    },
+    {
+      "id": "747208355084501364",
+      "title": "HSMA SS26 GCT2 Stunde 11 * Semesteraufgabe! *",
+      "channel": "oelna81",
+      "created_at": "1782457432",
+      "duration_seconds": "5700",
+      "twitch_id": "2805654794",
+      "files": [
+        {
+          "fileId": "4eR7wtTD0pCFCTpkGItwzCnPXXLLIgU",
+          "fileName": "hsma-ss26-gct2-stunde-11-semesteraufgabe.animated-thumb.jpg",
+          "fileSizeRaw": 50513,
+          "fileSize": "50.51 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/747208355084501364/2805654794.animated_thumb.jpg?versionId=4eR7wtTD0pCFCTpkGItwzCnPXXLLIgU&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDcyMDgzNTUwODQ1MDEzNjQvMjgwNTY1NDc5NC5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiI0ZVI3d3RURDBwQ0ZDVHBrR0l0d3pDblBYWExMSWdVIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTExLXNlbWVzdGVyYXVmZ2FiZS5hbmltYXRlZC10aHVtYi5qcGcifSwiZXhwIjoxNzgyNTEyNjcwLCJpYXQiOjE3ODI0Njk0NzAsIm5iZiI6MTc4MjQ2OTQ2MH0.3L7AUJGi-hIvbuixTSDZGDYHPHcIuSb_2Yy_yzd3Mrc",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "xmgoo6w.OC5c6VNVOuXFCy6z4do6nea",
+          "fileName": "hsma-ss26-gct2-stunde-11-semesteraufgabe.chat.json",
+          "fileSizeRaw": 15005,
+          "fileSize": "15.01 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/747208355084501364/2805654794.chat.json?versionId=xmgoo6w.OC5c6VNVOuXFCy6z4do6nea&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDcyMDgzNTUwODQ1MDEzNjQvMjgwNTY1NDc5NC5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiJ4bWdvbzZ3Lk9DNWM2Vk5WT3VYRkN5Nno0ZG82bmVhIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTExLXNlbWVzdGVyYXVmZ2FiZS5jaGF0Lmpzb24ifSwiZXhwIjoxNzgyNTEyNjcwLCJpYXQiOjE3ODI0Njk0NzAsIm5iZiI6MTc4MjQ2OTQ2MH0.noHt9tZkYvVESesqffEGVyjnQfuJR5kTegaE9SrumcI"
+        },
+        {
+          "fileId": "LDhPGF6aHOrOPzpENXh5k9QAJ4j4uRC",
+          "fileName": "hsma-ss26-gct2-stunde-11-semesteraufgabe.info.json",
+          "fileSizeRaw": 670,
+          "fileSize": "670.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/747208355084501364/2805654794.info.json?versionId=LDhPGF6aHOrOPzpENXh5k9QAJ4j4uRC&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDcyMDgzNTUwODQ1MDEzNjQvMjgwNTY1NDc5NC5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJMRGhQR0Y2YUhPck9QenBFTlhoNWs5UUFKNGo0dVJDIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTExLXNlbWVzdGVyYXVmZ2FiZS5pbmZvLmpzb24ifSwiZXhwIjoxNzgyNTEyNjcwLCJpYXQiOjE3ODI0Njk0NzAsIm5iZiI6MTc4MjQ2OTQ2MH0.gdv-07fmjpzk18vX5iNsYg31th7zA8qww7cDh-L0juo"
+        },
+        {
+          "fileId": "grcVNzq-SSehjw43bVAam5mDetZBZxW",
+          "fileName": "hsma-ss26-gct2-stunde-11-semesteraufgabe.mp4",
+          "fileSizeRaw": 3681140361,
+          "fileSize": "3.68 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/747208355084501364/2805654794.mp4?versionId=grcVNzq-SSehjw43bVAam5mDetZBZxW&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDcyMDgzNTUwODQ1MDEzNjQvMjgwNTY1NDc5NC5tcDQiLCJ2ZXJzaW9uSWQiOiJncmNWTnpxLVNTZWhqdzQzYlZBYW01bURldFpCWnhXIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTExLXNlbWVzdGVyYXVmZ2FiZS5tcDQifSwiZXhwIjoxNzgyNTEyNjcwLCJpYXQiOjE3ODI0Njk0NzAsIm5iZiI6MTc4MjQ2OTQ2MH0.z9ku04F9diKkoQ_Qp1BBGXrGUMISJITkqjdSrlSlhTI",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "4995649",
+            "duration": "5700.966333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "X0t5lkovtcnNF2TQI6FlZkH8JQ8n-cK",
+          "fileName": "hsma-ss26-gct2-stunde-11-semesteraufgabe.thumb.jpg",
+          "fileSizeRaw": 127722,
+          "fileSize": "127.72 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/747208355084501364/2805654794.thumb.jpg?versionId=X0t5lkovtcnNF2TQI6FlZkH8JQ8n-cK&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDcyMDgzNTUwODQ1MDEzNjQvMjgwNTY1NDc5NC50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJYMHQ1bGtvdnRjbk5GMlRRSTZGbFprSDhKUThuLWNLIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTExLXNlbWVzdGVyYXVmZ2FiZS50aHVtYi5qcGcifSwiZXhwIjoxNzgyNTEyNjcwLCJpYXQiOjE3ODI0Njk0NzAsIm5iZiI6MTc4MjQ2OTQ2MH0.bGMTwlP-NRpGmeyoQzfVaSYUCCojGgm0kjjSORcrSoY",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2026-06-26T10:24:30.720Z"
     }
   ]
 }
