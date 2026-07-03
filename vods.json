@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T07:41:42.397Z",
+    "generatedAt": "2026-07-03T10:12:11.384Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 72
+    "total": 73
   },
   "vods": [
     {
@@ -4822,6 +4822,73 @@
         }
       ],
       "filesFetchedAt": "2026-07-03T07:41:42.396Z"
+    },
+    {
+      "id": "749747377205967328",
+      "title": "HSMA SS26 GCT2 Stunde 12 * The Final Countdown *",
+      "channel": "oelna81",
+      "created_at": "1783062571",
+      "duration_seconds": "5907",
+      "twitch_id": "2811057382",
+      "files": [
+        {
+          "fileId": "gop35yWjJ1OJ-esa7Py1EriXIIHLvsp",
+          "fileName": "hsma-ss26-gct2-stunde-12-the-final-countdown.animated-thumb.jpg",
+          "fileSizeRaw": 52852,
+          "fileSize": "52.85 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/749747377205967328/2811057382.animated_thumb.jpg?versionId=gop35yWjJ1OJ-esa7Py1EriXIIHLvsp&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDk3NDczNzcyMDU5NjczMjgvMjgxMTA1NzM4Mi5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJnb3AzNXlXakoxT0otZXNhN1B5MUVyaVhJSUhMdnNwIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTEyLXRoZS1maW5hbC1jb3VudGRvd24uYW5pbWF0ZWQtdGh1bWIuanBnIn0sImV4cCI6MTc4MzExNjczMSwiaWF0IjoxNzgzMDczNTMxLCJuYmYiOjE3ODMwNzM1MjF9.j0k_s8GPpshIuDQmQyyVgmdSXaHICxY1_hh0wGLvqPs",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "DlxFbu4X0nW6u-Ld3-ZhSkYklMybtpl",
+          "fileName": "hsma-ss26-gct2-stunde-12-the-final-countdown.chat.json",
+          "fileSizeRaw": 12555,
+          "fileSize": "12.56 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/749747377205967328/2811057382.chat.json?versionId=DlxFbu4X0nW6u-Ld3-ZhSkYklMybtpl&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDk3NDczNzcyMDU5NjczMjgvMjgxMTA1NzM4Mi5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiJEbHhGYnU0WDBuVzZ1LUxkMy1aaFNrWWtsTXlidHBsIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTEyLXRoZS1maW5hbC1jb3VudGRvd24uY2hhdC5qc29uIn0sImV4cCI6MTc4MzExNjczMSwiaWF0IjoxNzgzMDczNTMxLCJuYmYiOjE3ODMwNzM1MjF9.sjAQ_IkGerb6Cvutd9FcpnjykefxY8WmtN57l8nlXWs"
+        },
+        {
+          "fileId": "pzrdziQcqpeVBvEfcrgZ2WjFu39dzII",
+          "fileName": "hsma-ss26-gct2-stunde-12-the-final-countdown.info.json",
+          "fileSizeRaw": 673,
+          "fileSize": "673.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/749747377205967328/2811057382.info.json?versionId=pzrdziQcqpeVBvEfcrgZ2WjFu39dzII&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDk3NDczNzcyMDU5NjczMjgvMjgxMTA1NzM4Mi5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJwenJkemlRY3FwZVZCdkVmY3JnWjJXakZ1MzlkeklJIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTEyLXRoZS1maW5hbC1jb3VudGRvd24uaW5mby5qc29uIn0sImV4cCI6MTc4MzExNjczMSwiaWF0IjoxNzgzMDczNTMxLCJuYmYiOjE3ODMwNzM1MjF9.aC8LgllX8LrMkyuz7jT71BLsZ6J3agKMo-3JPrIH2ag"
+        },
+        {
+          "fileId": "eaYbI5Dgo0Y-Nuc6HI6haMwf59Cxy2-",
+          "fileName": "hsma-ss26-gct2-stunde-12-the-final-countdown.mp4",
+          "fileSizeRaw": 3812940473,
+          "fileSize": "3.81 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/749747377205967328/2811057382.mp4?versionId=eaYbI5Dgo0Y-Nuc6HI6haMwf59Cxy2-&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDk3NDczNzcyMDU5NjczMjgvMjgxMTA1NzM4Mi5tcDQiLCJ2ZXJzaW9uSWQiOiJlYVliSTVEZ28wWS1OdWM2SEk2aGFNd2Y1OUN4eTItIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTEyLXRoZS1maW5hbC1jb3VudGRvd24ubXA0In0sImV4cCI6MTc4MzExNjczMSwiaWF0IjoxNzgzMDczNTMxLCJuYmYiOjE3ODMwNzM1MjF9.QEwxQ2N2cp0GoVG5yvzZRQ6hwHUkjmZMbc9rnkQ5xTk",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "4993220",
+            "duration": "5907.866333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "o7CVqSVBs2UKBSiR7a0V7YxCVyW511O",
+          "fileName": "hsma-ss26-gct2-stunde-12-the-final-countdown.thumb.jpg",
+          "fileSizeRaw": 171490,
+          "fileSize": "171.49 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/749747377205967328/2811057382.thumb.jpg?versionId=o7CVqSVBs2UKBSiR7a0V7YxCVyW511O&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83NDk3NDczNzcyMDU5NjczMjgvMjgxMTA1NzM4Mi50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJvN0NWcVNWQnMyVUtCU2lSN2EwVjdZeENWeVc1MTFPIiwiZG93bmxvYWROYW1lIjoiaHNtYS1zczI2LWdjdDItc3R1bmRlLTEyLXRoZS1maW5hbC1jb3VudGRvd24udGh1bWIuanBnIn0sImV4cCI6MTc4MzExNjczMSwiaWF0IjoxNzgzMDczNTMxLCJuYmYiOjE3ODMwNzM1MjF9.NQsv_voITyUK4qR2xk2lY_I4OIOVODg7US23MQcDan8",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2026-07-03T10:12:11.384Z"
     }
   ]
 }
