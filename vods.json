@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-10-09T11:23:00.970Z",
+    "generatedAt": "2026-10-09T16:14:28.922Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 79
+    "total": 80
   },
   "vods": [
     {
@@ -5291,6 +5291,73 @@
         }
       ],
       "filesFetchedAt": "2026-10-09T11:23:00.970Z"
+    },
+    {
+      "id": "785362420687102052",
+      "title": "HSMA WS26/27 HTML Stunde 3 * Grids and Flexes *",
+      "channel": "oelna81",
+      "created_at": "1791546304",
+      "duration_seconds": "13464",
+      "twitch_id": "2895939231",
+      "files": [
+        {
+          "fileId": "aqJiAjaerqJocSxDhG.sSUAXTDDFXzB",
+          "fileName": "hsma-ws26-27-html-stunde-3-grids-and-flexes.1920x1080x30.mp4",
+          "fileSizeRaw": 8729610288,
+          "fileSize": "8.73 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/785362420687102052/2895939231-0.1920x1080x30.mp4?versionId=aqJiAjaerqJocSxDhG.sSUAXTDDFXzB&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83ODUzNjI0MjA2ODcxMDIwNTIvMjg5NTkzOTIzMS0wLjE5MjB4MTA4MHgzMC5tcDQiLCJ2ZXJzaW9uSWQiOiJhcUppQWphZXJxSm9jU3hEaEcuc1NVQVhURERGWHpCIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI2LTI3LWh0bWwtc3R1bmRlLTMtZ3JpZHMtYW5kLWZsZXhlcy4xOTIweDEwODB4MzAubXA0In0sImV4cCI6MTc5MTYwNTY2OCwiaWF0IjoxNzkxNTYyNDY4LCJuYmYiOjE3OTE1NjI0NTh9.vaD-CSARLbhmTDGpT687GYtUqd6ZzW1vnDEON0k4p7k",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "5014774",
+            "duration": "13464.666333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "Kaxi1UOzir9QmhDryHt3KUSOAkHJx7F",
+          "fileName": "hsma-ws26-27-html-stunde-3-grids-and-flexes.animated-thumb.jpg",
+          "fileSizeRaw": 48693,
+          "fileSize": "48.69 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/785362420687102052/2895939231.animated_thumb.jpg?versionId=Kaxi1UOzir9QmhDryHt3KUSOAkHJx7F&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83ODUzNjI0MjA2ODcxMDIwNTIvMjg5NTkzOTIzMS5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJLYXhpMVVPemlyOVFtaERyeUh0M0tVU09Ba0hKeDdGIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI2LTI3LWh0bWwtc3R1bmRlLTMtZ3JpZHMtYW5kLWZsZXhlcy5hbmltYXRlZC10aHVtYi5qcGcifSwiZXhwIjoxNzkxNjA1NjY4LCJpYXQiOjE3OTE1NjI0NjgsIm5iZiI6MTc5MTU2MjQ1OH0.isiY576X9A3K70pgJARuy73B6xeetWUSR3aOXShd-So",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "8Fla8WGQ4wBUWfGdly6drEfPfI1odA7",
+          "fileName": "hsma-ws26-27-html-stunde-3-grids-and-flexes.chat.json",
+          "fileSizeRaw": 24625,
+          "fileSize": "24.63 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/785362420687102052/2895939231.chat.json?versionId=8Fla8WGQ4wBUWfGdly6drEfPfI1odA7&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83ODUzNjI0MjA2ODcxMDIwNTIvMjg5NTkzOTIzMS5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiI4RmxhOFdHUTR3QlVXZkdkbHk2ZHJFZlBmSTFvZEE3IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI2LTI3LWh0bWwtc3R1bmRlLTMtZ3JpZHMtYW5kLWZsZXhlcy5jaGF0Lmpzb24ifSwiZXhwIjoxNzkxNjA1NjY4LCJpYXQiOjE3OTE1NjI0NjgsIm5iZiI6MTc5MTU2MjQ1OH0.LNpjMEJAd7bdOAxoljiKHX_mbS1FWKGgbRBDWFNMIus"
+        },
+        {
+          "fileId": "ySGI7JclSA.nO4O-scVF6Zp2TqJLc4x",
+          "fileName": "hsma-ws26-27-html-stunde-3-grids-and-flexes.info.json",
+          "fileSizeRaw": 673,
+          "fileSize": "673.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/785362420687102052/2895939231.info.json?versionId=ySGI7JclSA.nO4O-scVF6Zp2TqJLc4x&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83ODUzNjI0MjA2ODcxMDIwNTIvMjg5NTkzOTIzMS5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJ5U0dJN0pjbFNBLm5PNE8tc2NWRjZacDJUcUpMYzR4IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI2LTI3LWh0bWwtc3R1bmRlLTMtZ3JpZHMtYW5kLWZsZXhlcy5pbmZvLmpzb24ifSwiZXhwIjoxNzkxNjA1NjY4LCJpYXQiOjE3OTE1NjI0NjgsIm5iZiI6MTc5MTU2MjQ1OH0.iG-mNJtvhDSpAazx08HtmHEmLYSbFO9xDYs2k_smQ18"
+        },
+        {
+          "fileId": "cAU8JyPzDkYoLWcu7RhCS9G.TfQjxzr",
+          "fileName": "hsma-ws26-27-html-stunde-3-grids-and-flexes.thumb.jpg",
+          "fileSizeRaw": 208400,
+          "fileSize": "208.40 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/785362420687102052/2895939231.thumb.jpg?versionId=cAU8JyPzDkYoLWcu7RhCS9G.TfQjxzr&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83ODUzNjI0MjA2ODcxMDIwNTIvMjg5NTkzOTIzMS50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJjQVU4SnlQekRrWW9MV2N1N1JoQ1M5Ry5UZlFqeHpyIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI2LTI3LWh0bWwtc3R1bmRlLTMtZ3JpZHMtYW5kLWZsZXhlcy50aHVtYi5qcGcifSwiZXhwIjoxNzkxNjA1NjY4LCJpYXQiOjE3OTE1NjI0NjgsIm5iZiI6MTc5MTU2MjQ1OH0.FLqY54GMNdb_TwHrP7oGF9WHERsXb5faWW393y1NOwE",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2026-10-09T16:14:28.922Z"
     }
   ]
 }
