@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-10-23T14:14:55.205Z",
+    "generatedAt": "2026-10-23T19:28:44.733Z",
     "baseUrl": "https://vault.root-space.eu",
     "targetUser": "oelna",
-    "total": 84
+    "total": 85
   },
   "vods": [
     {
@@ -5626,6 +5626,73 @@
         }
       ],
       "filesFetchedAt": "2026-10-23T14:14:55.205Z"
+    },
+    {
+      "id": "790419333401591285",
+      "title": "HSMA WS26/27 HTML Stunde 5 * container queries *",
+      "channel": "oelna81",
+      "created_at": "1792763048",
+      "duration_seconds": "2383",
+      "twitch_id": "2908503909",
+      "files": [
+        {
+          "fileId": "AYesfk0RKieOHQQqEIIrvAOsbFIJdj5",
+          "fileName": "hsma-ws26-27-html-stunde-5-container-queries.1920x1080x30.mp4",
+          "fileSizeRaw": 1542308322,
+          "fileSize": "1.54 GB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/790419333401591285/2908503909-0.1920x1080x30.mp4?versionId=AYesfk0RKieOHQQqEIIrvAOsbFIJdj5&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83OTA0MTkzMzM0MDE1OTEyODUvMjkwODUwMzkwOS0wLjE5MjB4MTA4MHgzMC5tcDQiLCJ2ZXJzaW9uSWQiOiJBWWVzZmswUktpZU9IUVFxRUlJcnZBT3NiRklKZGo1IiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI2LTI3LWh0bWwtc3R1bmRlLTUtY29udGFpbmVyLXF1ZXJpZXMuMTkyMHgxMDgweDMwLm1wNCJ9LCJleHAiOjE3OTI4MjY5MjQsImlhdCI6MTc5Mjc4MzcyNCwibmJmIjoxNzkyNzgzNzE0fQ.WIkMdr7pVL2ng51hs4XhRx2t-kFMnpZo-Jnq6lvPdR4",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "bit_rate": "5006409",
+            "duration": "2383.599333",
+            "codec_name": "h264",
+            "codec_type": "video",
+            "frame_rate": 30
+          }
+        },
+        {
+          "fileId": "djQwZMe5naJ2BHC4CwcANhhq14WKAfG",
+          "fileName": "hsma-ws26-27-html-stunde-5-container-queries.animated-thumb.jpg",
+          "fileSizeRaw": 55111,
+          "fileSize": "55.11 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/790419333401591285/2908503909.animated_thumb.jpg?versionId=djQwZMe5naJ2BHC4CwcANhhq14WKAfG&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83OTA0MTkzMzM0MDE1OTEyODUvMjkwODUwMzkwOS5hbmltYXRlZF90aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJkalF3Wk1lNW5hSjJCSEM0Q3djQU5oaHExNFdLQWZHIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI2LTI3LWh0bWwtc3R1bmRlLTUtY29udGFpbmVyLXF1ZXJpZXMuYW5pbWF0ZWQtdGh1bWIuanBnIn0sImV4cCI6MTc5MjgyNjkyNCwiaWF0IjoxNzkyNzgzNzI0LCJuYmYiOjE3OTI3ODM3MTR9.BJkuE5VYplRx7jgxSMgZGL2fD9w7_Ol1pe5kkLRT1go",
+          "metadata": {
+            "width": 320,
+            "height": 1800,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        },
+        {
+          "fileId": "6azJtopS1Dy4GGgrfyWYA8tM2GLxKl-",
+          "fileName": "hsma-ws26-27-html-stunde-5-container-queries.chat.json",
+          "fileSizeRaw": 3009,
+          "fileSize": "3.01 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/790419333401591285/2908503909.chat.json?versionId=6azJtopS1Dy4GGgrfyWYA8tM2GLxKl-&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83OTA0MTkzMzM0MDE1OTEyODUvMjkwODUwMzkwOS5jaGF0Lmpzb24iLCJ2ZXJzaW9uSWQiOiI2YXpKdG9wUzFEeTRHR2dyZnlXWUE4dE0yR0x4S2wtIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI2LTI3LWh0bWwtc3R1bmRlLTUtY29udGFpbmVyLXF1ZXJpZXMuY2hhdC5qc29uIn0sImV4cCI6MTc5MjgyNjkyNCwiaWF0IjoxNzkyNzgzNzI0LCJuYmYiOjE3OTI3ODM3MTR9.t3Nf8yJiOtzPu0Ipzx-1JnNTjYu4qGOEfDpO4Grtg3Y"
+        },
+        {
+          "fileId": "arpYQBRHr1I0c0tJeHct20We2nDYBJo",
+          "fileName": "hsma-ws26-27-html-stunde-5-container-queries.info.json",
+          "fileSizeRaw": 673,
+          "fileSize": "673.00 B",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/790419333401591285/2908503909.info.json?versionId=arpYQBRHr1I0c0tJeHct20We2nDYBJo&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83OTA0MTkzMzM0MDE1OTEyODUvMjkwODUwMzkwOS5pbmZvLmpzb24iLCJ2ZXJzaW9uSWQiOiJhcnBZUUJSSHIxSTBjMHRKZUhjdDIwV2UybkRZQkpvIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI2LTI3LWh0bWwtc3R1bmRlLTUtY29udGFpbmVyLXF1ZXJpZXMuaW5mby5qc29uIn0sImV4cCI6MTc5MjgyNjkyNCwiaWF0IjoxNzkyNzgzNzI0LCJuYmYiOjE3OTI3ODM3MTR9.b-sjwryD5RJZbHg4ZOFOUv98RGkAwmFGFAUXkwKxW5M"
+        },
+        {
+          "fileId": "chajkQlBv9bK3zPcuAka5Z5BWLgm8lp",
+          "fileName": "hsma-ws26-27-html-stunde-5-container-queries.thumb.jpg",
+          "fileSizeRaw": 210736,
+          "fileSize": "210.74 KB",
+          "downloadUrl": "https://download.root-space.eu/502725322172484797/twitch_vod/790419333401591285/2908503909.thumb.jpg?versionId=chajkQlBv9bK3zPcuAka5Z5BWLgm8lp&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ZhdWx0LnJvb3Qtc3BhY2UuZXUiLCJhdWQiOiJodHRwczovL2Rvd25sb2FkLnJvb3Qtc3BhY2UuZXUiLCJzdWIiOnsicHJvdmlkZXIiOiJWQVVMVCIsInBhdGgiOiI1MDI3MjUzMjIxNzI0ODQ3OTcvdHdpdGNoX3ZvZC83OTA0MTkzMzM0MDE1OTEyODUvMjkwODUwMzkwOS50aHVtYi5qcGciLCJ2ZXJzaW9uSWQiOiJjaGFqa1FsQnY5YkszelBjdUFrYTVaNUJXTGdtOGxwIiwiZG93bmxvYWROYW1lIjoiaHNtYS13czI2LTI3LWh0bWwtc3R1bmRlLTUtY29udGFpbmVyLXF1ZXJpZXMudGh1bWIuanBnIn0sImV4cCI6MTc5MjgyNjkyNCwiaWF0IjoxNzkyNzgzNzI0LCJuYmYiOjE3OTI3ODM3MTR9.5Oi4e_zDa0iMX5snEh0Jxex_vflRVngQajrl4jxMCjw",
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "codec_name": "mjpeg",
+            "codec_type": "video"
+          }
+        }
+      ],
+      "filesFetchedAt": "2026-10-23T19:28:44.733Z"
     }
   ]
 }
